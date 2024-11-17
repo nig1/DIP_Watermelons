@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+librosa
+opencv-python-headless
+scikit-learn
